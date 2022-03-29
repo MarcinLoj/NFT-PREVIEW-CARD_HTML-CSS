@@ -29,7 +29,7 @@ img {
     background-size: cover;
 }
 .equilibrium-img:hover {
-    background-image: url("../images/image-giequilibrium.jpg"),url("../images/icon-view.svg");
+    background-image: url("../images/image-equilibrium.jpg"),url("../images/icon-view.svg");
     background-color: hsl(178, 100%, 32%);
     background-blend-mode: soft-light, normal;
     background-size: contain,auto;
